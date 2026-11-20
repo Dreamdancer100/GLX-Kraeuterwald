@@ -29,6 +29,46 @@ GLX Kräuterwald brings the herb forest of DIE Silbermuschel to Windows as its o
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ The herb forest with the open book
+
+<p align="center"><img src="screenshots/01-kraeuterwald.png" alt="The herb forest with the open book" width="850"></p>
+
+### 2️⃣ Search by complaint
+
+<p align="center"><img src="screenshots/02-suche.png" alt="Search by complaint" width="850"></p>
+
+### 3️⃣ Recipe window
+
+<p align="center"><img src="screenshots/03-rezept.png" alt="Recipe window" width="850"></p>
+
+### 4️⃣ Plant page with recipes
+
+<p align="center"><img src="screenshots/04-pflanze.png" alt="Plant page with recipes" width="850"></p>
+
+### 5️⃣ Bigger: the book straight and large
+
+<p align="center"><img src="screenshots/05-groesser.png" alt="Bigger: the book straight and large" width="850"></p>
+
+### 6️⃣ Bach flower book
+
+<p align="center"><img src="screenshots/06-bachblueten.png" alt="Bach flower book" width="850"></p>
+
+### 7️⃣ Intake
+
+<p align="center"><img src="screenshots/07-einnahme.png" alt="Intake" width="850"></p>
+
+### 8️⃣ Settings with 8 designs and own music
+
+<p align="center"><img src="screenshots/08-einstellungen.png" alt="Settings with 8 designs and own music" width="850"></p>
+
+### 9️⃣ Built-in description
+
+<p align="center"><img src="screenshots/09-beschreibung.png" alt="Built-in description" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🌳 **3D book in a living forest:** The book lies on a tree stump in an animated forest with two blossoming trees swaying in the wind.

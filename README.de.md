@@ -29,6 +29,46 @@ GLX Kräuterwald bringt den Kräuterwald von DIE Silbermuschel als eigenes Progr
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Der Kräuterwald mit dem aufgeschlagenen Buch
+
+<p align="center"><img src="screenshots/01-kraeuterwald.png" alt="Der Kräuterwald mit dem aufgeschlagenen Buch" width="850"></p>
+
+### 2️⃣ Suche nach Beschwerden
+
+<p align="center"><img src="screenshots/02-suche.png" alt="Suche nach Beschwerden" width="850"></p>
+
+### 3️⃣ Rezeptfenster
+
+<p align="center"><img src="screenshots/03-rezept.png" alt="Rezeptfenster" width="850"></p>
+
+### 4️⃣ Pflanzenseite mit Rezepten
+
+<p align="center"><img src="screenshots/04-pflanze.png" alt="Pflanzenseite mit Rezepten" width="850"></p>
+
+### 5️⃣ Größer: das Buch gerade und groß
+
+<p align="center"><img src="screenshots/05-groesser.png" alt="Größer: das Buch gerade und groß" width="850"></p>
+
+### 6️⃣ Das Bachblüten-Buch
+
+<p align="center"><img src="screenshots/06-bachblueten.png" alt="Das Bachblüten-Buch" width="850"></p>
+
+### 7️⃣ Die Einnahme
+
+<p align="center"><img src="screenshots/07-einnahme.png" alt="Die Einnahme" width="850"></p>
+
+### 8️⃣ Einstellungen mit 8 Designs und eigener Musik
+
+<p align="center"><img src="screenshots/08-einstellungen.png" alt="Einstellungen mit 8 Designs und eigener Musik" width="850"></p>
+
+### 9️⃣ Eingebaute Beschreibung
+
+<p align="center"><img src="screenshots/09-beschreibung.png" alt="Eingebaute Beschreibung" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🌳 **3D-Buch im lebendigen Wald:** Das Buch liegt auf einem Baumstumpf im animierten Wald, daneben wiegen sich zwei blühende Bäume im Wind.
